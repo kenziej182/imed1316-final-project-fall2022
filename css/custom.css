@@ -1,0 +1,17 @@
+:root {
+  /*colors*/
+  /*color wheel reference pls obtain*/
+  /*
+
+60% of color - dom #869867
+30% of col - secondary #986786
+10% of col - accent 	#678698
+
+*/
+
+  --dominantColor: #869867; /* var(--dominantColor) !important; */
+  --secondaryColor: #986786; /* var(--secondaryColor) !important; */
+  --accentColor: #678698; /* var(--accentColor) !important; */
+
+  --boxShadow: 0 0 20px rgba(0, 0, 0, 0.35); /*var(--boxShadow) !important; */
+}
